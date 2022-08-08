@@ -6,7 +6,7 @@
 
 ## 💡 Summary
 
-## 💻 Structure
+## 📜 Structure
 
 ## 🏃 Ongoing
 
