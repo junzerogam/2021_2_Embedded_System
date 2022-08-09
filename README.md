@@ -37,9 +37,21 @@ pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
 ```
 ### :three: Start Get
 
+<p align="left">
+  <img src=docs/gif/start.gif width="70%" height="70%">
+</p> 
+
 ### :four: Option : Put
 
+<p align="left">
+  <img src=docs/gif/put.gif width="70%" height="70%">
+</p> 
+
 ### :five: Option : Observe
+
+<p align="left">
+  <img src=docs/gif/observe.gif width="70%" height="70%">
+</p> 
 
 ## 📌 Result
 
