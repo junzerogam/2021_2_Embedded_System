@@ -3,9 +3,10 @@
 * 2021 Fall Season Embeded System Project
 
 ## ❗ Purpose
-1. Raspberry Pi 기반 임베디드 시스템 기초 쌓기 
-2. 다양한 센서를 활용하여 하드웨어 지식 배양
-3. 실생활에 접목시킬 수 있는 아이디어 생산
+1. Raspberry Pi 기반 임베디드 시스템 기초 쌓기
+2. Coap Protocol Observe Option 활용 
+3. 다양한 센서를 활용하여 하드웨어 지식 배양
+4. 실생활에 접목시킬 수 있는 아이디어 생산
 ## 💡 Summary
 > 현재 Outback Steakhouse 안내 방식은 무전기로 인한 소통을 주로 활용하고 있다. 무전기는 단방향 통신을 주로 사용하고 있어, 상호 소통의 한계를 가지고 있다. 
 > 더하여 사람이 지속적으로 꾸준히 관찰 및 움직여야 하므로 체력 소모가 발생한다.<br><br>
@@ -27,6 +28,9 @@
                                                 
 <br><br>  
 ### :two: hhhhh
+### :three: hhhhh
+### :four: hhhhh
+### :five: hhhhh
 
 ## 📌 Reuslt
 
