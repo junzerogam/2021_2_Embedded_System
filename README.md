@@ -15,8 +15,9 @@
 > * 효율성 극대화
 ## 📜 Structure
 <p align="center">
-  
+  <img src=docs/img/structure.png width="70%" height="70%">
 </p>  
+
 ## 🏃 Ongoing
 
 ## 📌 Reuslt
