@@ -14,7 +14,9 @@
 > * 인력 감소
 > * 효율성 극대화
 ## 📜 Structure
-
+<p align="center">
+  
+</p>  
 ## 🏃 Ongoing
 
 ## 📌 Reuslt
