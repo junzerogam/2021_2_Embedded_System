@@ -20,7 +20,10 @@
 </p>  
 
 ## 🏃 Ongoing
-### :zero: About Coap
+### :zero: About Coap Protocol
+<p align="left">
+  <img src=docs/img/coap.jpg width="70%" height="70%">
+</p>  
 
 ### :one: Schemetic & Setting
 <p align="left">
