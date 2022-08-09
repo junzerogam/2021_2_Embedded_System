@@ -28,8 +28,12 @@
                                                 
 <br><br>  
 ### :two: Connect Raspberry Pi Wireless mode & Implement Java jar file
+<p align="left">
+  <img src=docs/img/Connect.png width="70%" height="70%">
+</p>  
+
 ```
-sudo java -jar project_pirserver.jar
+pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
 ```
 ### :three: 
 ### :four: hhhhh
