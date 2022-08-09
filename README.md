@@ -41,6 +41,8 @@ pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
   <img src=docs/gif/start.gif width="70%" height="70%">
 </p> 
 
+<img src=docs/img/starteat.png width="70%" height="70%">  
+
 ### :four: Option : Put
 
 <p align="left">
@@ -52,6 +54,9 @@ pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
 <p align="left">
   <img src=docs/gif/observe.gif width="70%" height="70%">
 </p> 
+
+<img src=docs/img/eatnow.png width="70%" height="70%">  
+<img src=docs/img/starteat.png width="70%" height="70%">
 
 ## 📌 Result
 
