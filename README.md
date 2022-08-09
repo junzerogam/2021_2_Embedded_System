@@ -35,10 +35,12 @@
 ```
 pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
 ```
-### :three: 
-### :four: hhhhh
-### :five: hhhhh
+### :three: Start Get
 
-## 📌 Reuslt
+### :four: Option : Put
+
+### :five: Option : Observe
+
+## 📌 Result
 
 ## 😄 What's Next?
