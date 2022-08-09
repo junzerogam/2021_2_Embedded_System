@@ -22,6 +22,7 @@
 ### :one: Schemetic & Setting
 <p align="left">
   <img src=docs/img/회로도.png width="30%" height="30%">
+  <img src=docs/img/테이블.jpg width="30%" height="30%">
 </p>  
                                                 
 <br><br>  
