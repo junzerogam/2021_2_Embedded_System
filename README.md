@@ -59,5 +59,10 @@ pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
 <img src=docs/img/finisheat.png width="70%" height="70%">
 
 ## 📌 Result
-
+✔️ Coap Protocol의 전반적인 이해
+✔️ Raspberry PI의 구조와 다양한 센서 활용 경험
+✔️ 리눅스 활용 방법 터득
+✔️ 아웃백에 아이디어 공유 😄
 ## 😄 What's Next?
+✔️ 나우웨이팅 API & 포스기 연동
+✔️ 웹페이지 구현으로 프로젝트 확장
