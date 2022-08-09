@@ -55,8 +55,8 @@ pi@raspberrypi:~ $ sudo java -jar project_pirserver.jar
   <img src=docs/gif/observe.gif width="70%" height="70%">
 </p> 
 
-<img src=docs/img/eatnow.png width="70%" height="70%">  
-<img src=docs/img/starteat.png width="70%" height="70%">
+<img src=docs/img/eatnow2.png width="70%" height="70%">  
+<img src=docs/img/finisheat.png width="70%" height="70%">
 
 ## 📌 Result
 
